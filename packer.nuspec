@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata minClientVersion="3.3.0">
         <id>Octopus.Dependencies.Packer</id>
-        <version>1.2.1.0</version>
+        <version>#{PackerVersion}.0</version>
         <description>Packer CLI Package</description>
         <authors>Matthew Casperson</authors>
         <contentFiles>
